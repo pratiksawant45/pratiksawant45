@@ -1,5 +1,5 @@
-# 💫 About Me:- 
-<br>- 🎓 I'm an Information Technology undergrad passionate about AI and full-stack development.<br>- 🔭 I’m currently working on: NeuraLTraffic - Smart Traffic Optimization using AI 🚦<br>- 🌱 I’m learning: Flutter, Graph Analytics, and Generative AI<br>- 💬 Ask me about: ML, Computer Vision, and MERN Projects
+# 💫 About Me:
+<br>- 🎓 I'm an Information Technology undergrad passionate about AI and ML.<br>- 🔭 I’m currently working on: NeuraLTraffic - Smart Traffic Optimization using AI 🚦<br>- 💬 Ask me about: ML, Computer Vision, and more
 
 
 ## 🌐 Socials:
